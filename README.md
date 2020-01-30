@@ -1,2 +1,0 @@
-# WindowStateExample
-Created with CodeSandbox
